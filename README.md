@@ -1,4 +1,4 @@
-#Most Popular SaaS Directories and Launching Platforms Sorted by Traffic
+# Most Popular SaaS Directories and Launching Platforms Sorted by Traffic
 
 There are more than 290 good directories where you can submit your startup.
 
