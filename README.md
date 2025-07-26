@@ -16,7 +16,7 @@ There are more than 290 good directories where you can submit your startup.
 | 3 | [CrunchBase](https://www.crunchbase.com) | [Submit](https://www.crunchbase.com/#/home/index) | Profile | 3549230 |
 | 4 | [Alternative To](https://alternativeto.net) | [Submit](https://alternativeto.net/account/signup) | SaaS Marketplace | 2779339 |
 | 5 | [Tracxn Companies](https://tracxn.com/d/companies) | [Submit](https://tracxn.com/signup) | Profile | 2804032 |
-| 6 | [Product Hunt](https://www.producthunt.com) | [Submit](https://help.producthunt.com/browsing/how-do-i-get-started) | Launch Platform | 3171589 |
+| 6 | [Product Hunt](https://www.producthunt.com) | [Submit](https://help.producthunt.com/en/articles/479557-how-to-post-a-product) | Launch Platform | 3171589 |
 | 7 | [Slashdot](https://slashdot.org/) | [Submit](https://slashdot.org/submission) | SaaS Marketplace | 3941070 |
 | 8 | [Gartner](https://www.gartner.com/reviews/markets) | [Submit](https://www.gartner.com/peer-insights/vendor-portal/overview) | Review Directory | 3878395 |
 | 9 | [G2 Stack](https://www.g2.com/) | [Submit](https://www.g2.com/products/new) | Startup Directory | 3714671 |
