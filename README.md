@@ -5,7 +5,7 @@ There are more than 290 good directories where you can submit your startup.
 ### Notes
 
 - The list only includes top software dierctories/app platforms sorted by traffic.
-- This list includes sites receives 45,000+ visitors per month. This is not a complete list.
+- This list includes sites receives 50,000+ visitors per month. This is not a complete list.
 
 ### :point_right: [SaaS and Launch Platforms Updated List](https://www.bizixy.com/hub/saas "SaaS and Launch Platforms Updated List") :point_left:
 
