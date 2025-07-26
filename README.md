@@ -46,7 +46,7 @@ There are more than 290 good directories where you can submit your startup.
 | 33 | [SelectHub](https://www.selecthub.com) | [Submit](https://www.selecthub.com/seller/) | SaaS Marketplace | 333119 |
 | 34 | [SoftwareReviews](https://www.softwarereviews.com/) | [Submit](https://provider.softwarereviews.com/) | SaaS Marketplace | 322701 |
 | 35 | [Vendr](https://www.vendr.com) | [Submit](https://www.vendr.com/vendr-verified) | SaaS Marketplace | 317789 |
-| 36 | [Toools.design](https://www.toools.design) | [Submit](Send an Email) | Niche Directory | 313251 |
+| 36 | [Toools.design](https://www.toools.design) | Send an Email | Niche Directory | 313251 |
 | 37 | [Beta List](https://betalist.com) | [Submit](https://betalist.com/submissions/new) | Launch Platform | 312962 |
 | 38 | [VentureRadar](https://www.ventureradar.com/database) | [Submit](http://ventureradar.com/submitcompany) | Profile | 245330 |
 | 39 | [Compara Software](http://comparasoftware.com/) | [Submit](https://www.comparasoftware.com/panel-usuario/register) | SaaS Marketplace | 215080 |
